@@ -4,7 +4,7 @@
 
 1. **Clone o repositório:**
     ```bash
-    git clone https://github.com/seu-usuario/projeto-avaliacao-llm.git
+    git clone https://github.com/ArturMSilva/projeto-avaliacao-llm.git
     cd projeto-avaliacao-llm
     ```
 
@@ -27,7 +27,3 @@
 - `main.py`: Arquivo principal para execução do código.
 - `requirements.txt`: Lista de dependências do projeto.
 - `README.md`: Este arquivo.
-
-## Contato
-
-Para mais informações, entre em contato pelo email: seu-email@dominio.com
