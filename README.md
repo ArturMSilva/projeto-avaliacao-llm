@@ -18,9 +18,23 @@
     python main.py
     ```
 
-4. **Configurações adicionais:**
-    - Certifique-se de que você possui o Python 3.8+ instalado.
-    - Configure as variáveis de ambiente necessárias no arquivo `.env`.
+4. **Ao executar:**
+
+    O vscode irá perguntar se quer inciar um ambiente virtual, clique em "Yes" e aguarde a instalação das dependências, caso não tenha as extensões do python, siga o passo a passo abaixo.
+
+5. **Configurações necessárias:**
+
+   - ✅ **Verifique a versão do Python:**  
+     ```bash
+     python --version  # Deve mostrar 3.8 ou superior
+     ```
+
+   - 🔌 **Extensão Python (se necessário):**  
+     > *Siga caso não tenha a extensão instalada:*  
+     > 1. Abra o VS Code  
+     > 2. Clique no ícone de extensões (🔎)  
+     > 3. Busque por **"Python"**  
+     > 4. Instale a extensão oficial da Microsoft
 
 ## Estrutura do Projeto
 
